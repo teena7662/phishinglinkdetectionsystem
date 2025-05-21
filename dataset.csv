@@ -1,0 +1,11 @@
+URL,Label
+http://bit.ly/secure-login,1
+https://google.com,0
+http://192.168.0.1/login,1
+https://facebook.com,0
+http://example.com//login,1
+https://netflix.com,0
+http://@phishingsite.com,1
+https://amazon.com,0
+http://malicious.com/account/verify,1
+https://openai.com,0
